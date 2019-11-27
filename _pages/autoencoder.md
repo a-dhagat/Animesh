@@ -4,7 +4,7 @@ permalink: /autoencoder/
 title: "Autoencoder Basics"
 author_profile: true
 header:
-    image: "/images/dsh.jpg"
+    image: "/images/snow.jpg"
 ---
 
 Autoencoder Basics!
