@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Animesh Dhagat"
   avatar           : "https://avatars3.githubusercontent.com/u/46166956?s=460&v=4" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Graduate Research Assistant" <br/> "Robotics Institute - Carnegie Mellon University"
+  bio              : "Graduate Research Assistant \ Robotics Institute - Carnegie Mellon University"
   location         : "Pittsburgh, Pennsylvania"
   # email            : "adhagat [at] andrew.cmu.edu"
   links:
