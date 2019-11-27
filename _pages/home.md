@@ -4,7 +4,8 @@ permalink: /home/
 title: "Home"
 author_profile: true
 header:
-    image: "/images/dsh.jpg"
+    image: <img src="/images/dsh.jpg" alt="drawing" width="200"/>
+    # image: "/images/dsh.jpg"
 ---
 
 I'm a Graduate student working in the broad field of Computer Vision and Deep Learning at Carnegie Mellon University.
