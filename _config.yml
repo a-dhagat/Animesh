@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Animesh Dhagat's blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Ideas, Discussion, and Curiosity." # site tagline that appears below site title in masthead
 name                     : "Animesh Dhagat"
-description              : "Ideas, Discussion, and Curiosity."
+description              : "Abstraction."
 url                      : "https://a-dhagat.github.io/Animesh/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/a-dhagat" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Animesh Dhagat"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://avatars3.githubusercontent.com/u/46166956?s=460&v=4" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Graduate Research Assistant - Robotics Institute \n Carnegie Mellon University"
   location         : "Pittsburgh, Pennsylvania"
   # email            : "adhagat [at] andrew.cmu.edu"
