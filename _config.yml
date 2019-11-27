@@ -111,7 +111,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Graduate Research Assistant - Robotics Institute \n Carnegie Mellon University"
   location         : "Pittsburgh, Pennsylvania"
-  email            : "adhagat [at] andrew.cmu.edu"
+  # email            : "adhagat [at] andrew.cmu.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
