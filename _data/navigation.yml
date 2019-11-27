@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Home"
+    url: /home/
   - title: "About"
     url: /about/
   - title: "Autoencoder"
