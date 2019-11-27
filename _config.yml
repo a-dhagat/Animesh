@@ -107,29 +107,29 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Animesh Dhagat"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Graduate Research Assistant - Robotics Institute \n Carnegie Mellon University"
+  location         : "Pittsburgh, Pennsylvania"
+  email            : "adhagat [at] andrew.cmu.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:adhagat@andrew.cmu.edu
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      url: "https://a-dhagat.github.io/Animesh/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/animesh.dhagat"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      url: https://github.com/a-dhagat
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
