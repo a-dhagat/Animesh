@@ -7,7 +7,7 @@ excerpt: Moving towards an optimal understanding of math, computer vision, and e
 header:
   overlay_color: "#333"
 #   overlay_image: "/images/cycle_gan.png"
-  caption: "Photo credit: [](https://www.alibabacloud.com/blog/deep-learning-vs-machine-learning-vs-pattern-recognition_207110)"
+#   caption: "Photo credit: [](https://www.alibabacloud.com/blog/deep-learning-vs-machine-learning-vs-pattern-recognition_207110)"
 #   actions:
 #     - label: "More Info"
 #       url: "https://unsplash.com"
