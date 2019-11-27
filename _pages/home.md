@@ -3,10 +3,10 @@ layout: home
 permalink: /home/
 title: "Home"
 author_profile: true
-excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
+excerpt: "I'm a Graduate student working in the broad field of Computer Vision and Deep Learning at Carnegie Mellon University."
 header:
   overlay_image: /images/dsh.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+#   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "More Info"
       url: "https://unsplash.com"
