@@ -10,7 +10,7 @@ excerpt: ""
 Semantic Segmentation and Piel Labelling
 
 Semantic Segmentation is clustering those pixels which belong to an object in the image. Each pixel is categorized on the basis of its contents [RGB values].  
-![Figure 1: Semantic Segmentation on an image of cows](../images/semantic_seg_fig1.jpg)
+![Figure 1: Semantic Segmentation on an image of cows](../images/semantic_seg_fig1.jpg "Figure 1: Semantic Segmentation on an image of cows")
 - Label each pixel with what category it is..[look at cow image]
 - Different from detection?-- Detection labels boxes, segmentation labels pixels.
 - Segmentation tells us that therese are cows
