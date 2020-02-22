@@ -5,7 +5,7 @@ tags: [Computer Vision, Deep Learning, Images, Segmentation]
 header:
     image: "/images/autoenc.png"
 excerpt: ""
-path: /home/
+path: _pages
 ---
 
 Semantic Segmentation and Pixel Labelling
