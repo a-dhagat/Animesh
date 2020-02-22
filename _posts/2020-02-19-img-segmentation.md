@@ -9,7 +9,7 @@ excerpt: ""
 
 Semantic Segmentation and Pixel Labelling
 
-*Semantics* is a sysnonym for meaning, and *segmentation* is division of a whole into parts. Clustering pixels into meaningful groups is semantic segmentation. Applied to Computer Vision, it can be related to by both - images (2D) and point clouds (3D).  
+*Semantics* stands for meaning, and *segmentation* is the division of a whole into parts. Clustering pixels into meaningful groups is semantic segmentation. Applied to Computer Vision, it can be related to by both - images (2D) and point clouds (3D).  
 In an image, there could be many object classes (like car, bike, person, dog, so on). When we cluster a group of pixels and label them all as a particular class, the image is said to have been segmented on the basis of semantics set up as the object classes. Pixels are categorized on the basis of their contents [RGB values].  
 ![Figure 1: Semantic Segmentation on an image of cows](../images/semantic_seg_fig1.jpg "Figure 1: Semantic Segmentation on an image of cows")  
 - Label each pixel with what category it is..[look at cow image]
