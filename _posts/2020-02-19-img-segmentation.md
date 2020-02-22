@@ -12,6 +12,8 @@ Semantic Segmentation and Pixel Labelling
 *Semantics* stands for meaning, and *segmentation* is the division of a whole into parts. Clustering pixels into meaningful groups is semantic segmentation. Applied to Computer Vision, it can be related to by both - images (2D) and point clouds (3D).  
 In an image, there could be many object classes (like car, bike, person, dog, so on). When we cluster a group of pixels and label them all as a particular class, the image is said to have been segmented on the basis of semantics set up as the object classes. Pixels are categorized on the basis of their contents [RGB values].  
 ![Figure 1: Semantic Segmentation on an image of cows](../images/semantic_seg_fig1.jpg "Figure 1: Semantic Segmentation on an image of cows")  
+The next question could be - *Then how is this any different from detection? If I can detect an object, I could label all pixels of that detection to be of the same category!*. The answer is no, and here is why not. Detection returns a bounding box around an object. This means, you have either 4 coordinates, or a starting coordinate with width and height information - bottom line being that it would always be a box that would be returned. An object doesn't necessarily have to conform to the box - take for example a basketball, the bounding box around a circular ball is rectangular and now there are pixels in this rectangle that do not belong to the ball, yet if we were to label all pixels within the box as the detected class, we'd be segmenting a circular ball as a rectangle.  
+
 - Label each pixel with what category it is..[look at cow image]
 - Different from detection?-- Detection labels boxes, segmentation labels pixels.
 - Segmentation tells us that therese are cows
